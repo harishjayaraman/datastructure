@@ -19,6 +19,7 @@ public class LinkedListDemo {
 		System.out.println(linkedList);
 		System.out.println(linkedList.length());
 		
+		System.out.println("Found : " + linkedList.find(8));
 	}
 	
 	
