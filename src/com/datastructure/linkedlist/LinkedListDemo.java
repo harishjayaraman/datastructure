@@ -14,6 +14,10 @@ public class LinkedListDemo {
 		System.out.println(linkedList);
 		System.out.println(linkedList.length());
 		
+		linkedList.deleteFromHead();
+		
+		System.out.println(linkedList);
+		System.out.println(linkedList.length());
 		
 	}
 	
